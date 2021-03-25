@@ -8,7 +8,7 @@
 
 - 📫 How to reach me ...
     >> mail at:  harsh.wandhare[at]gmail.com
-    >> linkedin: Harsh Wandhare
+    >> linkedin: harsh wandhare
     >> instagram: harsh_wandhare
     >> twitter: @HarshWandhare
     >> hackerrank: @harsh_wandhare
